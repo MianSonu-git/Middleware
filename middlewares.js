@@ -68,7 +68,7 @@ app.listen(PORT , ()=>(console.log("Server was runinng on port number" + PORT)))
 
 
 //#region Method of app in express
-
+    
 //#endregion
 //console.log(app.locals.settings.views); // app.locals is variable that hold information about client request
 
